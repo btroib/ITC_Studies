@@ -1,7 +1,7 @@
 ShalomLorem ipsum dolor sit amet,  
 consectetuer adipiscing elit.  
- commodo ligula eget dolor.  
- massa.  
+MAJOR_CHANGES commodo ligula eget dolor.  
+MAJOR_CHANGES massa.  
 Cum sociis natoque penatibus et magnis dis parturient montes,  
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
